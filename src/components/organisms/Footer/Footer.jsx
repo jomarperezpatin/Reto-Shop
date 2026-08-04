@@ -3,7 +3,6 @@ import Boton from '../../atoms/Boton/Boton';
 import {memo} from 'react';
 
 function Footer(){
-    console.log("Renderizando Footer");
     return(
         <footer className='footer'>
             <h3 className ='footer_titulo'>Reto-Shop</h3>

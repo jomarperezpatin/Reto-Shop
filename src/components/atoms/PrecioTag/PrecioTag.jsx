@@ -1,4 +1,4 @@
-import './precioTag.css';
+import './PrecioTag.css';
 import {validarProps} from '../../../utils/validarProps';
 import {memo} from 'react';
 

@@ -3,7 +3,7 @@ import Contenedor from '../../atoms/Contenedor/contenedor';
 import ContadorCarrito from '../../atoms/ContadorCarrito/ContadorCarrito';
 import './Header.css';
 import {useCarrito} from '../../../hooks/useCarrito';
-import PrecioTag from '../../atoms/PrecioTag/precioTag';
+import PrecioTag from '../../atoms/PrecioTag/PrecioTag';
 
 
 function Header() {

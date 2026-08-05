@@ -1,6 +1,6 @@
 import './ProductCard.css'
-import PrecioTag from '../../atoms/PrecioTag/precioTag';
-import DisponibilidadBadge from '../../atoms/DisponibilidadBadge/disponibilidadBadge';
+import PrecioTag from '../../atoms/PrecioTag/PrecioTag';
+import DisponibilidadBadge from '../../atoms/DisponibilidadBadge/DisponibilidadBadge';
 import Boton from '../../atoms/Boton/Boton';
 import { validarProps } from '../../../utils/validarProps';
 import {Link} from 'react-router';
